@@ -1,0 +1,4 @@
+# Statistics & Data Analysis
+
+In this part of the book we look into Statistics and some of thecommon tools 
+it offers fro data analysis.

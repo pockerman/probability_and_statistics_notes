@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Compuatational and Applied Mathematics"
+  author: "Alexandros Giavaras"
+  date: "15/04/2023"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: statistics.qmd
+      chapters:
+        - statistics/least_squares.ipynb
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
