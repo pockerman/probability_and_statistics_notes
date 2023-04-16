@@ -1,0 +1,4 @@
+# Linear Algebra
+
+Linear algebra and in particular computational linear algebra plays
+a key role in almost all the material that will be discussed in these notes.
