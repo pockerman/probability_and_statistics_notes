@@ -1,0 +1,7 @@
+# Supervised Machine Learning
+
+In this part of the book we will look into a class of mostly statistical models
+that require a labeled data set. We call these models supervised models.
+
+Supervised machine learning models fall 
+into two categories; regression and classiifcation.
