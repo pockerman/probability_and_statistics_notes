@@ -8,9 +8,15 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: statistics.qmd
+    - part: linear_algebra.qmd
       chapters:
-        - statistics/least_squares.ipynb
+        - linear_algebra/least_squares.ipynb     
+    - part: supervised_machine_learning.qmd
+      chapters:
+        - supervised_machine_learning/linear_regression.ipynb
+        - supervised_machine_learning/multiple_linear_regression.ipynb
+        - supervised_machine_learning/logistic_regression.ipynb
+        - supervised_machine_learning/naive_bayes.ipynb
     - summary.qmd
     - references.qmd
 
