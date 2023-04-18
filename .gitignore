@@ -159,3 +159,5 @@ mir_api/api/dbs/__pycache__/
 
 # MacOS stuff
 .DS_Store
+
+/.quarto/
