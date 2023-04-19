@@ -1,0 +1,4 @@
+# Probability Theory
+
+In this part of the notes our attention will be on probability. We will look introvarious definitions of probability and
+some very useful rules. Finally, we will explore some important distributions.

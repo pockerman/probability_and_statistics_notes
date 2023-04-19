@@ -10,7 +10,10 @@ book:
     - intro.qmd
     - part: linear_algebra.qmd
       chapters:
-        - linear_algebra/least_squares.ipynb     
+        - linear_algebra/least_squares.ipynb
+    - part: probability_theory.qmd
+      chapters:
+        - probability/distributions/normal_distribution.ipynb     
     - part: supervised_machine_learning.qmd
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
