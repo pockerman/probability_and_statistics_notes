@@ -10,6 +10,8 @@ book:
     - intro.qmd
     - part: linear_algebra.qmd
       chapters:
+        - linear_algebra/intro_iterative_methods.ipynb
+        - linear_algebra/jacobi_gauss_seidel.ipynb
         - linear_algebra/least_squares.ipynb
     - part: probability_theory.qmd
       chapters:
