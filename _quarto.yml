@@ -20,6 +20,7 @@ book:
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
         - supervised_machine_learning/multiple_linear_regression.ipynb
+        - supervised_machine_learning/curve_fitting_probabilistic_perspective.ipynb
         - supervised_machine_learning/logistic_regression.ipynb
         - supervised_machine_learning/naive_bayes.ipynb
     - summary.qmd
