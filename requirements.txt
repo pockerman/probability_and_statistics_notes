@@ -1,11 +1,10 @@
 torch
 torchvision
 numpy
-dataclasses
+scikit-learn
 Pillow
 matplotlib
 seaborn
-loguru
 opencv-python
 torchcam
 torch-summary
