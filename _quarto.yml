@@ -16,7 +16,8 @@ book:
     - part: probability/probability.ipynb
       chapters:
         - probability/bayes_rule.ipynb     
-        - probability/distributions/normal_distribution.ipynb     
+        - probability/distributions/normal_distribution.ipynb
+        - probability/simulation_methods/basic_monte_carlo_integration.ipynb     
     - part: supervised_machine_learning.qmd
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
