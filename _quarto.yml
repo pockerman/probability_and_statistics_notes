@@ -17,7 +17,8 @@ book:
       chapters:
         - probability/bayes_rule.ipynb     
         - probability/distributions/normal_distribution.ipynb
-        - probability/simulation_methods/basic_monte_carlo_integration.ipynb     
+        - probability/simulation_methods/basic_monte_carlo_integration.ipynb 
+        - probability/simulation_methods/importance_sampling.ipynb  
     - part: supervised_machine_learning.qmd
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
@@ -25,6 +26,11 @@ book:
         - supervised_machine_learning/curve_fitting_probabilistic_perspective.ipynb
         - supervised_machine_learning/logistic_regression.ipynb
         - supervised_machine_learning/naive_bayes.ipynb
+        - supervised_machine_learning/hidden_markov_model.ipynb
+        - supervised_machine_learning/forward_algorithm.ipynb
+        - supervised_machine_learning/backward_algorithm.ipynb
+        - supervised_machine_learning/viterbi_algorithm.ipynb
+        - supervised_machine_learning/baum_welch_algorithm.ipynb
     - summary.qmd
     - references.qmd
 
