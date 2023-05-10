@@ -10,6 +10,7 @@ book:
     - intro.qmd
     - part: linear_algebra/linear_algebra.ipynb
       chapters:
+        - linear_algebra/singular_value_decomposition.ipynb
         - linear_algebra/intro_iterative_methods.ipynb
         - linear_algebra/jacobi_gauss_seidel.ipynb
         - linear_algebra/least_squares.ipynb
@@ -18,7 +19,10 @@ book:
         - probability/bayes_rule.ipynb     
         - probability/distributions/normal_distribution.ipynb
         - probability/simulation_methods/basic_monte_carlo_integration.ipynb 
-        - probability/simulation_methods/importance_sampling.ipynb  
+        - probability/simulation_methods/importance_sampling.ipynb
+    - part: optimization/optimization.ipynb
+      chapters:
+        - optimization/gradient_descent.ipynb
     - part: supervised_machine_learning.qmd
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
