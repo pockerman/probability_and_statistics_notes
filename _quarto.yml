@@ -37,6 +37,10 @@ book:
         - supervised_machine_learning/forward_algorithm.ipynb
         - supervised_machine_learning/backward_algorithm.ipynb
         - supervised_machine_learning/viterbi_algorithm.ipynb
+    - part: computing_frameworks/numba_framework/numba_overview.ipynb
+      chapters:
+        - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
+        - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
     - summary.qmd
     - references.qmd
 
