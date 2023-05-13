@@ -20,6 +20,7 @@ book:
         - probability_and_statistics/distributions/normal_distribution.ipynb
         - probability_and_statistics/simulation_methods/basic_monte_carlo_integration.ipynb 
         - probability_and_statistics/simulation_methods/importance_sampling.ipynb
+        - probability_and_statistics/simulation_methods/metropolis_hastings_algorithm.ipynb
     - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
         - probability_and_statistics/statistics/statistical_decisions/risk_functions.ipynb 
@@ -37,6 +38,7 @@ book:
         - supervised_machine_learning/forward_algorithm.ipynb
         - supervised_machine_learning/backward_algorithm.ipynb
         - supervised_machine_learning/viterbi_algorithm.ipynb
+        - supervised_machine_learning/baum_welch_algorithm.ipynb
     - part: computing_frameworks/numba_framework/numba_overview.ipynb
       chapters:
         - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
