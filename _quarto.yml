@@ -18,6 +18,7 @@ book:
       chapters:
         - probability_and_statistics/bayes_rule.ipynb     
         - probability_and_statistics/distributions/normal_distribution.ipynb
+        - probability_and_statistics/density_estimation.ipynb
         - probability_and_statistics/simulation_methods/basic_monte_carlo_integration.ipynb 
         - probability_and_statistics/simulation_methods/importance_sampling.ipynb
         - probability_and_statistics/simulation_methods/metropolis_hastings_algorithm.ipynb
@@ -27,7 +28,7 @@ book:
     - part: optimization/optimization.ipynb
       chapters:
         - optimization/gradient_descent.ipynb
-    - part: supervised_machine_learning.qmd
+    - part: supervised_machine_learning/supervised_machine_learning.ipynb
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
         - supervised_machine_learning/multiple_linear_regression.ipynb
