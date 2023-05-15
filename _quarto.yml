@@ -25,6 +25,7 @@ book:
     - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
         - probability_and_statistics/statistics/statistical_decisions/risk_functions.ipynb 
+        - probability_and_statistics/statistics/statistical_decisions/bayes_estimators.ipynb 
     - part: optimization/optimization.ipynb
       chapters:
         - optimization/gradient_descent.ipynb
