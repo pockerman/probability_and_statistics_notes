@@ -31,6 +31,7 @@ book:
         - optimization/gradient_descent.ipynb
     - part: supervised_machine_learning/supervised_machine_learning.ipynb
       chapters:
+        - supervised_machine_learning/classification_using_density_estimation.ipynb
         - supervised_machine_learning/linear_regression.ipynb
         - supervised_machine_learning/multiple_linear_regression.ipynb
         - supervised_machine_learning/curve_fitting_probabilistic_perspective.ipynb
