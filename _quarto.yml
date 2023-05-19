@@ -47,6 +47,10 @@ book:
       chapters:
         - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
         - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
+    - part: computing_frameworks/profiling_code/profiling_code_overview.ipynb
+      chapters:
+        - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
+        - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
     - summary.qmd
     - references.qmd
 
