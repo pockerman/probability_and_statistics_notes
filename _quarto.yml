@@ -47,6 +47,11 @@ book:
         - supervised_machine_learning/backward_algorithm.ipynb
         - supervised_machine_learning/viterbi_algorithm.ipynb
         - supervised_machine_learning/baum_welch_algorithm.ipynb
+    - part: computing_frameworks/gpgpu/gpu_programming.ipynb
+      chapters:
+        - computing_frameworks/gpgpu/computing_with_cuda/cuda_gpu.ipynb
+        - computing_frameworks/gpgpu/computing_with_cuda/cuda_computing_with_numba.ipynb
+      
     - part: computing_frameworks/numba_framework/numba_overview.ipynb
       chapters:
         - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
