@@ -19,6 +19,9 @@ book:
         - probability_and_statistics/bayes_rule.ipynb     
         - probability_and_statistics/distributions/normal_distribution.ipynb
         - probability_and_statistics/density_estimation.ipynb
+        
+    - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
+      chapters:
         - probability_and_statistics/simulation_methods/the_bootstrap.ipynb
         - probability_and_statistics/simulation_methods/basic_monte_carlo_integration.ipynb 
         - probability_and_statistics/simulation_methods/importance_sampling.ipynb
