@@ -65,6 +65,7 @@ book:
         - supervised_machine_learning/baum_welch_algorithm.ipynb
     - part: computing_frameworks/gpgpu/gpu_programming.ipynb
       chapters:
+        - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
         - computing_frameworks/gpgpu/computing_with_cuda/cuda_gpu.ipynb
         - computing_frameworks/gpgpu/computing_with_cuda/cuda_computing_with_numba.ipynb
       
