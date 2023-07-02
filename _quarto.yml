@@ -16,10 +16,11 @@ book:
         - linear_algebra/least_squares.ipynb
     - part: differential_equations/odes/odes.ipynb
       chapters: 
+        - differential_equations/odes/separable_odes.ipynb
         - differential_equations/odes/homogeneous_differential_equations.ipynb
         - differential_equations/odes/exact_odes.ipynb
         - differential_equations/odes/integration_factor_method.ipynb
-        - differential_equations/odes/separable_odes.ipynb
+        
         - differential_equations/odes/harmonic_oscillator.ipynb
     - part: probability_and_statistics/probability_theory.ipynb
       chapters:
