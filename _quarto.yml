@@ -8,22 +8,78 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - part: linear_algebra.qmd
+    - part: linear_algebra/linear_algebra.ipynb
       chapters:
+        - linear_algebra/singular_value_decomposition.ipynb
         - linear_algebra/intro_iterative_methods.ipynb
         - linear_algebra/jacobi_gauss_seidel.ipynb
         - linear_algebra/least_squares.ipynb
-    - part: probability/probability.ipynb
+    - part: differential_equations/odes/odes.ipynb
+      chapters: 
+        - differential_equations/odes/separable_odes.ipynb
+        - differential_equations/odes/homogeneous_differential_equations.ipynb
+        - differential_equations/odes/exact_odes.ipynb
+        - differential_equations/odes/integration_factor_method.ipynb
+        
+        - differential_equations/odes/harmonic_oscillator.ipynb
+    - part: probability_and_statistics/probability_theory.ipynb
       chapters:
-        - probability/bayes_rule.ipynb     
-        - probability/distributions/normal_distribution.ipynb     
-    - part: supervised_machine_learning.qmd
+        - probability_and_statistics/probability_function.ipynb
+        - probability_and_statistics/bayes_rule.ipynb     
+        - probability_and_statistics/distributions/normal_distribution.ipynb
+        - probability_and_statistics/density_estimation.ipynb
+        
+    - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
       chapters:
+        - probability_and_statistics/simulation_methods/the_bootstrap.ipynb
+        - probability_and_statistics/simulation_methods/basic_monte_carlo_integration.ipynb
+        - probability_and_statistics/simulation_methods/monte_carlo_applications.ipynb
+        - probability_and_statistics/simulation_methods/importance_sampling.ipynb
+        - probability_and_statistics/simulation_methods/metropolis_hastings_algorithm.ipynb
+        
+    - part: probability_and_statistics/statistics/statistical_inference/statistical_inference.ipynb 
+      chapters:
+        - probability_and_statistics/statistics/statistical_inference/point_estimation.ipynb 
+        - probability_and_statistics/statistics/statistical_inference/confidence_intervals.ipynb 
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing.ipynb
+        - probability_and_statistics/statistics/statistical_inference/type_1_type2_errors.ipynb
+        - probability_and_statistics/statistics/statistical_inference/effect_size.ipynb
+        - probability_and_statistics/statistics/statistical_inference/chi_square_hypothesis_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
+    - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
+      chapters:
+        - probability_and_statistics/statistics/statistical_decisions/risk_functions.ipynb 
+        - probability_and_statistics/statistics/statistical_decisions/bayes_estimators.ipynb 
+    - part: optimization/optimization.ipynb
+      chapters:
+        - optimization/gradient_descent.ipynb
+    - part: supervised_machine_learning/supervised_machine_learning.ipynb
+      chapters:
+        - supervised_machine_learning/classification_using_density_estimation.ipynb
         - supervised_machine_learning/linear_regression.ipynb
         - supervised_machine_learning/multiple_linear_regression.ipynb
         - supervised_machine_learning/curve_fitting_probabilistic_perspective.ipynb
         - supervised_machine_learning/logistic_regression.ipynb
         - supervised_machine_learning/naive_bayes.ipynb
+        - supervised_machine_learning/hidden_markov_model.ipynb
+        - supervised_machine_learning/forward_algorithm.ipynb
+        - supervised_machine_learning/backward_algorithm.ipynb
+        - supervised_machine_learning/viterbi_algorithm.ipynb
+        - supervised_machine_learning/baum_welch_algorithm.ipynb
+    - part: computing_frameworks/gpgpu/gpu_programming.ipynb
+      chapters:
+        - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
+        - computing_frameworks/gpgpu/computing_with_cuda/cuda_gpu.ipynb
+        - computing_frameworks/gpgpu/computing_with_cuda/cuda_computing_with_numba.ipynb
+      
+    - part: computing_frameworks/numba_framework/numba_overview.ipynb
+      chapters:
+        - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
+        - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
+    - part: computing_frameworks/profiling_code/profiling_code_overview.ipynb
+      chapters:
+        - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
+        - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
     - summary.qmd
     - references.qmd
 
