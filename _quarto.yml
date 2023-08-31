@@ -25,6 +25,7 @@ book:
     - part: probability_and_statistics/probability_theory.ipynb
       chapters:
         - probability_and_statistics/probability_function.ipynb
+        - probability_and_statistics/outcomes_events_sample_space.ipynb
         - probability_and_statistics/bayes_rule.ipynb     
         - probability_and_statistics/distributions/normal_distribution.ipynb
         - probability_and_statistics/density_estimation.ipynb
