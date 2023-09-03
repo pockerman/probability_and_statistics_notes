@@ -82,9 +82,10 @@ book:
       chapters:
         - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
         - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
-    - summary.qmd
-    - references.qmd
-
+    - part: appendix/appendix.ipynb
+      chapters:
+        - appendix/matplotlib_intro.ipynb  
+    
 bibliography: references.bib
 
 format:
