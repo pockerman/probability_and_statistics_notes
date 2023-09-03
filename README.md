@@ -1,8 +1,11 @@
-# Computational Mathematics Notes
+# Applied Mathematics Notes
 
 This is a series of notes about the very broad subject of
-computational mathematics. The notes are organised into 
-jupyter notebooks. 
+applied mathematics. The notes are organised into 
+jupyter notebooks.
+
+As the name suggests these are just notes, so many topics will lack the
+rigorousness that a formal treatment of the subject would deliver.
 
 
 ## Creating a book
