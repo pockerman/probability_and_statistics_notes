@@ -7,7 +7,6 @@ book:
   date: "15/04/2023"
   chapters:
     - index.qmd
-    - intro.qmd
     - part: linear_algebra/linear_algebra.ipynb
       chapters:
         - linear_algebra/singular_value_decomposition.ipynb
@@ -33,12 +32,16 @@ book:
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
       chapters:
+        - probability_and_statistics/simulation_methods/coin_flips.ipynb
         - probability_and_statistics/simulation_methods/the_bootstrap.ipynb
         - probability_and_statistics/simulation_methods/basic_monte_carlo_integration.ipynb
         - probability_and_statistics/simulation_methods/monte_carlo_applications.ipynb
         - probability_and_statistics/simulation_methods/importance_sampling.ipynb
         - probability_and_statistics/simulation_methods/metropolis_hastings_algorithm.ipynb
         
+    - part: probability_and_statistics/statistics/eda/eda.ipynb 
+      chapters:
+        - probability_and_statistics/statistics/eda/histogram_plot.ipynb 
     - part: probability_and_statistics/statistics/statistical_inference/statistical_inference.ipynb 
       chapters:
         - probability_and_statistics/statistics/statistical_inference/point_estimation.ipynb 
