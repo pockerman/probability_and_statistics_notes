@@ -68,6 +68,7 @@ book:
         - supervised_machine_learning/linear_regression.ipynb
         - supervised_machine_learning/multiple_linear_regression.ipynb
         - supervised_machine_learning/curve_fitting_probabilistic_perspective.ipynb
+        - supervised_machine_learning/classification/evaluating_classifiers.ipynb
         - supervised_machine_learning/logistic_regression.ipynb
         - supervised_machine_learning/naive_bayes.ipynb
         - supervised_machine_learning/hidden_markov_model.ipynb
