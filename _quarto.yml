@@ -41,7 +41,11 @@ book:
         
     - part: probability_and_statistics/statistics/eda/eda.ipynb 
       chapters:
-        - probability_and_statistics/statistics/eda/histogram_plot.ipynb 
+        - probability_and_statistics/statistics/eda/histogram_plot.ipynb
+        - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
+        - probability_and_statistics/statistics/eda/measures_central_tendency.ipynb
+        - probability_and_statistics/statistics/eda/measures_variability.ipynb
+        - probability_and_statistics/statistics/eda/covariance_and_correlation.ipynb
     - part: probability_and_statistics/statistics/statistical_inference/statistical_inference.ipynb 
       chapters:
         - probability_and_statistics/statistics/statistical_inference/point_estimation.ipynb 
