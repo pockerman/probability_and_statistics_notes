@@ -28,6 +28,7 @@ book:
         - probability_and_statistics/independent_events_conditional_probability.ipynb
         - probability_and_statistics/bayes_rule.ipynb     
         - probability_and_statistics/distributions/normal_distribution.ipynb
+        - probability_and_statistics/distributions/binomial_distribution.ipynb
         - probability_and_statistics/density_estimation.ipynb
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
