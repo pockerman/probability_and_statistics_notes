@@ -23,11 +23,13 @@ book:
         - differential_equations/odes/harmonic_oscillator.ipynb
     - part: probability_and_statistics/probability_theory.ipynb
       chapters:
+        - probability_and_statistics/basic_set_theory.ipynb
         - probability_and_statistics/outcomes_events_sample_space.ipynb
         - probability_and_statistics/probability_function.ipynb
         - probability_and_statistics/independent_events_conditional_probability.ipynb
         - probability_and_statistics/bayes_rule.ipynb
         - probability_and_statistics/random_variables.ipynb
+        - probability_and_statistics/cumulative_distribution_function.ipynb
         - probability_and_statistics/distributions/normal_distribution.ipynb
         - probability_and_statistics/distributions/binomial_distribution.ipynb
         - probability_and_statistics/central_limit_theorem.ipynb
