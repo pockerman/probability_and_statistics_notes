@@ -64,10 +64,15 @@ book:
     - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
         - probability_and_statistics/statistics/statistical_decisions/risk_functions.ipynb 
-        - probability_and_statistics/statistics/statistical_decisions/bayes_estimators.ipynb 
+        - probability_and_statistics/statistics/statistical_decisions/bayes_estimators.ipynb
     - part: optimization/optimization.ipynb
       chapters:
         - optimization/gradient_descent.ipynb
+    - part: component_analysis/component_analysis.ipynb
+      chapters:
+        - component_analysis/dimensionality_reduction.ipynb
+        - component_analysis/principal_component_analysis.ipynb
+      
     - part: supervised_machine_learning/supervised_machine_learning.ipynb
       chapters:
         - supervised_machine_learning/classification_using_density_estimation.ipynb
@@ -82,6 +87,8 @@ book:
         - supervised_machine_learning/backward_algorithm.ipynb
         - supervised_machine_learning/viterbi_algorithm.ipynb
         - supervised_machine_learning/baum_welch_algorithm.ipynb
+        
+    - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb  
     - part: computing_frameworks/gpgpu/gpu_programming.ipynb
       chapters:
         - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
