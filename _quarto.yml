@@ -19,7 +19,6 @@ book:
         - differential_equations/odes/homogeneous_differential_equations.ipynb
         - differential_equations/odes/exact_odes.ipynb
         - differential_equations/odes/integration_factor_method.ipynb
-        
         - differential_equations/odes/harmonic_oscillator.ipynb
     - part: probability_and_statistics/probability_theory.ipynb
       chapters:
@@ -75,19 +74,21 @@ book:
       
     - part: supervised_machine_learning/supervised_machine_learning.ipynb
       chapters:
-        - supervised_machine_learning/classification_using_density_estimation.ipynb
         - supervised_machine_learning/linear_regression.ipynb
         - supervised_machine_learning/multiple_linear_regression.ipynb
         - supervised_machine_learning/curve_fitting_probabilistic_perspective.ipynb
-        - supervised_machine_learning/classification/evaluating_classifiers.ipynb
-        - supervised_machine_learning/logistic_regression.ipynb
-        - supervised_machine_learning/naive_bayes.ipynb
         - supervised_machine_learning/hidden_markov_model.ipynb
         - supervised_machine_learning/forward_algorithm.ipynb
         - supervised_machine_learning/backward_algorithm.ipynb
         - supervised_machine_learning/viterbi_algorithm.ipynb
-        - supervised_machine_learning/baum_welch_algorithm.ipynb
-        
+        - supervised_machine_learning/baum_welch_algorithm.ipynb  
+    - part: supervised_machine_learning/supervised_classification_machine_learning.ipynb
+      chapters:
+        - supervised_machine_learning/classification/classification_using_density_estimation.ipynb
+        - supervised_machine_learning/classification/evaluating_classifiers.ipynb
+        - supervised_machine_learning/classification/k_nearest_neighbors.ipynb
+        - supervised_machine_learning/classification/naive_bayes.ipynb
+        - supervised_machine_learning/classification/logistic_regression.ipynb
     - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb  
     - part: computing_frameworks/gpgpu/gpu_programming.ipynb
       chapters:
