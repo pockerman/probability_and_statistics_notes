@@ -3,3 +3,18 @@
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+
+## References & Resources
+
+### Books for Python programming
+
+- <a href="https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html">Python 3 Patterns, Recipes and Idioms</a>
+- <a href="https://leanpub.com/clean-architectures-in-python">Clean Architectures in Python</a>
+- <a href="https://automatetheboringstuff.com/">Automate the Boring Stuff with Python</a>
+
+
+### Books for Machine Learning and Statistics with Python
+
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+
