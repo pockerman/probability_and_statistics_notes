@@ -91,7 +91,11 @@ book:
         - supervised_machine_learning/classification/k_nearest_neighbors.ipynb
         - supervised_machine_learning/classification/naive_bayes.ipynb
         - supervised_machine_learning/classification/logistic_regression.ipynb
-    - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb  
+    - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb 
+    - part: computing_frameworks/spark/apache_spark.ipynb
+      chapters:
+        - computing_frameworks/spark/spark_application_concepts.ipynb
+        - computing_frameworks/spark/hello_pyspark.ipynb
     - part: computing_frameworks/gpgpu/gpu_programming.ipynb
       chapters:
         - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
