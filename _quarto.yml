@@ -56,10 +56,11 @@ book:
       chapters:
         - probability_and_statistics/statistics/statistical_inference/point_estimation.ipynb 
         - probability_and_statistics/statistics/statistical_inference/confidence_intervals.ipynb 
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing.ipynb
-        - probability_and_statistics/statistics/statistical_inference/type_1_type2_errors.ipynb
-        - probability_and_statistics/statistics/statistical_inference/effect_size.ipynb
-        - probability_and_statistics/statistics/statistical_inference/chi_square_hypothesis_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
         - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
     - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
