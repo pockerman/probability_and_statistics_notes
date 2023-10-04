@@ -7,19 +7,6 @@ book:
   date: "15/04/2023"
   chapters:
     - index.qmd
-    - part: linear_algebra/linear_algebra.ipynb
-      chapters:
-        - linear_algebra/singular_value_decomposition.ipynb
-        - linear_algebra/intro_iterative_methods.ipynb
-        - linear_algebra/jacobi_gauss_seidel.ipynb
-        - linear_algebra/least_squares.ipynb
-    - part: differential_equations/odes/odes.ipynb
-      chapters: 
-        - differential_equations/odes/separable_odes.ipynb
-        - differential_equations/odes/homogeneous_differential_equations.ipynb
-        - differential_equations/odes/exact_odes.ipynb
-        - differential_equations/odes/integration_factor_method.ipynb
-        - differential_equations/odes/harmonic_oscillator.ipynb
     - part: probability_and_statistics/probability_theory.ipynb
       chapters:
         - probability_and_statistics/basic_set_theory.ipynb
@@ -59,6 +46,8 @@ book:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/wald_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
         - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
@@ -113,7 +102,7 @@ book:
     - part: appendix/appendix.ipynb
       chapters:
         - appendix/matplotlib_intro.ipynb  
-    
+        - appendix/linear_algebra.ipynb
 bibliography: references.bib
 
 format:
