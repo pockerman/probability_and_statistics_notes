@@ -85,6 +85,7 @@ book:
       chapters:
         - computing_frameworks/spark/spark_application_concepts.ipynb
         - computing_frameworks/spark/hello_pyspark.ipynb
+        - computing_frameworks/spark/read_csv_file_pyspark.ipynb
     - part: computing_frameworks/gpgpu/gpu_programming.ipynb
       chapters:
         - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
