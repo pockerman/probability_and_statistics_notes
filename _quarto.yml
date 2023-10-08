@@ -16,10 +16,15 @@ book:
         - probability_and_statistics/bayes_rule.ipynb
         - probability_and_statistics/random_variables.ipynb
         - probability_and_statistics/cumulative_distribution_function.ipynb
-        - probability_and_statistics/distributions/normal_distribution.ipynb
-        - probability_and_statistics/distributions/binomial_distribution.ipynb
         - probability_and_statistics/central_limit_theorem.ipynb
         - probability_and_statistics/density_estimation.ipynb
+        
+    - part: probability_and_statistics/distributions/probability_distributions.ipynb
+      chapters:
+        - probability_and_statistics/distributions/normal_distribution.ipynb
+        - probability_and_statistics/distributions/chi_square_distribution.ipynb
+        - probability_and_statistics/distributions/binomial_distribution.ipynb
+      
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
       chapters:
