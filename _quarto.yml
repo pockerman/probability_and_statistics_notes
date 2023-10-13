@@ -96,6 +96,25 @@ book:
         - computing_frameworks/spark/hello_pyspark.ipynb
         - computing_frameworks/spark/read_csv_file_pyspark.ipynb
         - computing_frameworks/spark/spark_data_frame.ipynb
+    - part: computing_frameworks/pytorch/pytorch.ipynb
+      chapters:
+        - computing_frameworks/pytorch/pytorch_twod_tensors.ipynb
+        - computing_frameworks/pytorch/pytorch_gradients.ipynb
+        - computing_frameworks/pytorch/pytorch_dataset.ipynb
+        - computing_frameworks/pytorch/pytorch_layers.ipynb
+        - computing_frameworks/pytorch/pytorch_sequential.ipynb
+        - computing_frameworks/pytorch/pytorch_linear.ipynb
+        - computing_frameworks/pytorch/pytorch_linear_regression.ipynb
+        - computing_frameworks/pytorch/pytorch_logistic_regression.ipynb
+        - computing_frameworks/pytorch/pytorch_optim.ipynb
+        - computing_frameworks/pytorch/pytorch_stochastic_gradient_descent.ipynb
+        - computing_frameworks/pytorch/pytorch_user_defined_autograd_function.ipynb
+        - computing_frameworks/pytorch/pytorch_transforms.ipynb
+        - computing_frameworks/pytorch/pytorch_max_pooling.ipynb
+        - computing_frameworks/pytorch/pytorch_dropout.ipynb
+        - computing_frameworks/pytorch/pytorch_activation_functions.ipynb
+        - computing_frameworks/pytorch/pytorch_custom_modules.ipynb
+        - computing_frameworks/pytorch/pytorch_cnn.ipynb
     - part: computing_frameworks/gpgpu/gpu_programming.ipynb
       chapters:
         - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
