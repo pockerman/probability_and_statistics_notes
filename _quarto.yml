@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "Compuatational and Applied Mathematics"
+  title: "Compuatational Statistics and Probability"
   author: "Alexandros Giavaras"
   date: "15/04/2023"
   chapters:
@@ -50,9 +50,10 @@ book:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/wald_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
         - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
     - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
