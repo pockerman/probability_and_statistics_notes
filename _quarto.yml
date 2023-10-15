@@ -54,6 +54,7 @@ book:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
     - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
@@ -97,6 +98,7 @@ book:
         - computing_frameworks/spark/hello_pyspark.ipynb
         - computing_frameworks/spark/read_csv_file_pyspark.ipynb
         - computing_frameworks/spark/spark_data_frame.ipynb
+        - computing_frameworks/spark/spark_eda_ops_data_frame.ipynb
     - part: computing_frameworks/pytorch/pytorch.ipynb
       chapters:
         - computing_frameworks/pytorch/pytorch_twod_tensors.ipynb
