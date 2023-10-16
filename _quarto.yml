@@ -54,6 +54,7 @@ book:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
+        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
     - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
