@@ -30,6 +30,3 @@ if __name__ == '__main__':
     df.select("Height", col("Height") * 5, "Weight", col("Weight") * 2, "Age", "Sex").show()
 
     spark.stop()
-
-
-
