@@ -58,6 +58,10 @@ if __name__ == '__main__':
 
     print(f"Schema used {csv_df.printSchema()}")
 
+    # filter the columns according to type
+    strs = [field for (field, data_type) in csv_df.dtypes if data_type == "string"]
+    floats = [field for (field, data_type) in csv_df.dtypes if data_type == "float"]
+
     # specify the schema programmatically
     schema = StructType([StructField("OBJECTID", IntegerType(), False),
                          StructField("PROVIDERNAME", StringType(), False),])
