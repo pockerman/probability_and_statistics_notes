@@ -44,6 +44,12 @@ book:
         - probability_and_statistics/statistics/eda/measures_variability.ipynb
         - probability_and_statistics/statistics/eda/skewness_kurtosis.ipynb
         - probability_and_statistics/statistics/eda/covariance_and_correlation.ipynb
+        
+    - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
+      chapters: 
+        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
+        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
+        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
     - part: probability_and_statistics/statistics/statistical_inference/statistical_inference.ipynb
       chapters:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
@@ -57,12 +63,6 @@ book:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
         - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
-    - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
-      chapters: 
-        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
-        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
-        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
- 
     - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
         - probability_and_statistics/statistics/statistical_decisions/risk_functions.ipynb 
