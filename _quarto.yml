@@ -102,6 +102,7 @@ book:
         - computing_frameworks/spark/spark_eda_ops_data_frame.ipynb
         - computing_frameworks/spark/spark_sql.ipynb
         - computing_frameworks/spark/spark_sql_views.ipynb
+        - computing_frameworks/spark/spark_udfs.ipynb
     - part: computing_frameworks/pytorch/pytorch.ipynb
       chapters:
         - computing_frameworks/pytorch/pytorch_twod_tensors.ipynb
