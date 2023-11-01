@@ -21,8 +21,11 @@ book:
         
     - part: probability_and_statistics/distributions/probability_distributions.ipynb
       chapters:
+        - probability_and_statistics/distributions/bernoulli_distribution.ipynb
         - probability_and_statistics/distributions/binomial_distribution.ipynb
+        - probability_and_statistics/distributions/poisson_distribution.ipynb
         - probability_and_statistics/distributions/geometric_distribution.ipynb
+        - probability_and_statistics/distributions/uniform_distribution.ipynb
         - probability_and_statistics/distributions/normal_distribution.ipynb
         - probability_and_statistics/distributions/chi_square_distribution.ipynb
         
