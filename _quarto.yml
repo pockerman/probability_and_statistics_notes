@@ -21,10 +21,10 @@ book:
         
     - part: probability_and_statistics/distributions/probability_distributions.ipynb
       chapters:
+        - probability_and_statistics/distributions/binomial_distribution.ipynb
+        - probability_and_statistics/distributions/geometric_distribution.ipynb
         - probability_and_statistics/distributions/normal_distribution.ipynb
         - probability_and_statistics/distributions/chi_square_distribution.ipynb
-        - probability_and_statistics/distributions/binomial_distribution.ipynb
-      
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
       chapters:
