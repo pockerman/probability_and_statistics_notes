@@ -27,7 +27,9 @@ book:
         - probability_and_statistics/distributions/geometric_distribution.ipynb
         - probability_and_statistics/distributions/uniform_distribution.ipynb
         - probability_and_statistics/distributions/normal_distribution.ipynb
+        - probability_and_statistics/distributions/exponential_distribution.ipynb
         - probability_and_statistics/distributions/gamma_beta_distributions.ipynb
+        - probability_and_statistics/distributions/t_cauchy_distributions.ipynb
         - probability_and_statistics/distributions/chi_square_distribution.ipynb
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
