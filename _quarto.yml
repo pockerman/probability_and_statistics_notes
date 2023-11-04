@@ -43,14 +43,18 @@ book:
         
     - part: probability_and_statistics/statistics/eda/eda.ipynb 
       chapters:
-        - probability_and_statistics/statistics/eda/histogram_plot.ipynb
-        - probability_and_statistics/statistics/eda/box_plot.ipynb
-        - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
+      
         - probability_and_statistics/statistics/eda/measures_central_tendency.ipynb
         - probability_and_statistics/statistics/eda/mean_estimation_histogram.ipynb
         - probability_and_statistics/statistics/eda/measures_variability.ipynb
         - probability_and_statistics/statistics/eda/skewness_kurtosis.ipynb
         - probability_and_statistics/statistics/eda/covariance_and_correlation.ipynb
+        - probability_and_statistics/statistics/eda/histogram_plot.ipynb
+        - probability_and_statistics/statistics/eda/quantile_plot.ipynb
+        - probability_and_statistics/statistics/eda/scatter_plot.ipynb
+        - probability_and_statistics/statistics/eda/box_plot.ipynb
+        - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
+     
     - part: probability_and_statistics/statistics/statistical_inference/statistical_inference.ipynb
       chapters:
         - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
