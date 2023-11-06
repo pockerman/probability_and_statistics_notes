@@ -21,10 +21,16 @@ book:
         
     - part: probability_and_statistics/distributions/probability_distributions.ipynb
       chapters:
-        - probability_and_statistics/distributions/normal_distribution.ipynb
-        - probability_and_statistics/distributions/chi_square_distribution.ipynb
+        - probability_and_statistics/distributions/bernoulli_distribution.ipynb
         - probability_and_statistics/distributions/binomial_distribution.ipynb
-      
+        - probability_and_statistics/distributions/poisson_distribution.ipynb
+        - probability_and_statistics/distributions/geometric_distribution.ipynb
+        - probability_and_statistics/distributions/uniform_distribution.ipynb
+        - probability_and_statistics/distributions/normal_distribution.ipynb
+        - probability_and_statistics/distributions/exponential_distribution.ipynb
+        - probability_and_statistics/distributions/gamma_beta_distributions.ipynb
+        - probability_and_statistics/distributions/t_cauchy_distributions.ipynb
+        - probability_and_statistics/distributions/chi_square_distribution.ipynb
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
       chapters:
@@ -37,14 +43,17 @@ book:
         
     - part: probability_and_statistics/statistics/eda/eda.ipynb 
       chapters:
-        - probability_and_statistics/statistics/eda/histogram_plot.ipynb
-        - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
+      
         - probability_and_statistics/statistics/eda/measures_central_tendency.ipynb
         - probability_and_statistics/statistics/eda/mean_estimation_histogram.ipynb
         - probability_and_statistics/statistics/eda/measures_variability.ipynb
         - probability_and_statistics/statistics/eda/skewness_kurtosis.ipynb
         - probability_and_statistics/statistics/eda/covariance_and_correlation.ipynb
-        
+        - probability_and_statistics/statistics/eda/histogram_plot.ipynb
+        - probability_and_statistics/statistics/eda/quantile_plot.ipynb
+        - probability_and_statistics/statistics/eda/scatter_plot.ipynb
+        - probability_and_statistics/statistics/eda/box_plot.ipynb
+        - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
     - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
         - probability_and_statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
