@@ -149,6 +149,7 @@ book:
       chapters:
         - appendix/matplotlib_intro.ipynb  
         - appendix/linear_algebra.ipynb
+        - appendix/least_squares.ipynb
 bibliography: references.bib
 
 format:
