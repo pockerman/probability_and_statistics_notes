@@ -7,76 +7,76 @@ book:
   date: "15/04/2023"
   chapters:
     - index.qmd
-    - part: probability_and_statistics/probability_theory.ipynb
+    - part: probability/probability_theory.ipynb
       chapters:
-        - probability_and_statistics/basic_set_theory.ipynb
-        - probability_and_statistics/outcomes_events_sample_space.ipynb
-        - probability_and_statistics/probability_function.ipynb
-        - probability_and_statistics/independent_events_conditional_probability.ipynb
-        - probability_and_statistics/bayes_rule.ipynb
-        - probability_and_statistics/random_variables.ipynb
-        - probability_and_statistics/cumulative_distribution_function.ipynb
-        - probability_and_statistics/central_limit_theorem.ipynb
-        - probability_and_statistics/density_estimation.ipynb
+        - probability/basic_set_theory.ipynb
+        - probability/outcomes_events_sample_space.ipynb
+        - probability/probability_function.ipynb
+        - probability/independent_events_conditional_probability.ipynb
+        - probability/bayes_rule.ipynb
+        - probability/random_variables.ipynb
+        - probability/cumulative_distribution_function.ipynb
+        - probability/central_limit_theorem.ipynb
+        - probability/density_estimation.ipynb
         
-    - part: probability_and_statistics/distributions/probability_distributions.ipynb
+    - part: probability/distributions/probability_distributions.ipynb
       chapters:
-        - probability_and_statistics/distributions/bernoulli_distribution.ipynb
-        - probability_and_statistics/distributions/binomial_distribution.ipynb
-        - probability_and_statistics/distributions/poisson_distribution.ipynb
-        - probability_and_statistics/distributions/geometric_distribution.ipynb
-        - probability_and_statistics/distributions/uniform_distribution.ipynb
-        - probability_and_statistics/distributions/normal_distribution.ipynb
-        - probability_and_statistics/distributions/exponential_distribution.ipynb
-        - probability_and_statistics/distributions/gamma_beta_distributions.ipynb
-        - probability_and_statistics/distributions/t_cauchy_distributions.ipynb
-        - probability_and_statistics/distributions/chi_square_distribution.ipynb
+        - probability/distributions/bernoulli_distribution.ipynb
+        - probability/distributions/binomial_distribution.ipynb
+        - probability/distributions/poisson_distribution.ipynb
+        - probability/distributions/geometric_distribution.ipynb
+        - probability/distributions/uniform_distribution.ipynb
+        - probability/distributions/normal_distribution.ipynb
+        - probability/distributions/exponential_distribution.ipynb
+        - probability/distributions/gamma_beta_distributions.ipynb
+        - probability/distributions/t_cauchy_distributions.ipynb
+        - probability/distributions/chi_square_distribution.ipynb
         
     - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
       chapters:
-        - probability_and_statistics/simulation_methods/coin_flips.ipynb
-        - probability_and_statistics/simulation_methods/the_bootstrap.ipynb
-        - probability_and_statistics/simulation_methods/basic_monte_carlo_integration.ipynb
-        - probability_and_statistics/simulation_methods/monte_carlo_applications.ipynb
-        - probability_and_statistics/simulation_methods/importance_sampling.ipynb
-        - probability_and_statistics/simulation_methods/metropolis_hastings_algorithm.ipynb
+        - probability/simulation_methods/coin_flips.ipynb
+        - probability/simulation_methods/the_bootstrap.ipynb
+        - probability/simulation_methods/basic_monte_carlo_integration.ipynb
+        - probability/simulation_methods/monte_carlo_applications.ipynb
+        - probability/simulation_methods/importance_sampling.ipynb
+        - probability/simulation_methods/metropolis_hastings_algorithm.ipynb
         
-    - part: probability_and_statistics/statistics/eda/eda.ipynb 
+    - part: statistics/statistics/eda/eda.ipynb 
       chapters:
       
-        - probability_and_statistics/statistics/eda/measures_central_tendency.ipynb
-        - probability_and_statistics/statistics/eda/mean_estimation_histogram.ipynb
-        - probability_and_statistics/statistics/eda/measures_variability.ipynb
-        - probability_and_statistics/statistics/eda/skewness_kurtosis.ipynb
-        - probability_and_statistics/statistics/eda/covariance_and_correlation.ipynb
-        - probability_and_statistics/statistics/eda/histogram_plot.ipynb
-        - probability_and_statistics/statistics/eda/quantile_plot.ipynb
-        - probability_and_statistics/statistics/eda/scatter_plot.ipynb
-        - probability_and_statistics/statistics/eda/box_plot.ipynb
-        - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
-        - probability_and_statistics/statistics/eda/data_preprocessing.ipynb
-    - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
+        - statistics/statistics/eda/measures_central_tendency.ipynb
+        - statistics/statistics/eda/mean_estimation_histogram.ipynb
+        - statistics/statistics/eda/measures_variability.ipynb
+        - statistics/statistics/eda/skewness_kurtosis.ipynb
+        - statistics/statistics/eda/covariance_and_correlation.ipynb
+        - statistics/statistics/eda/histogram_plot.ipynb
+        - statistics/statistics/eda/quantile_plot.ipynb
+        - statistics/statistics/eda/scatter_plot.ipynb
+        - statistics/statistics/eda/box_plot.ipynb
+        - statistics/statistics/eda/bee_swarm_plots.ipynb
+        - statistics/statistics/eda/data_preprocessing.ipynb
+    - part: statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
-        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
-        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
-        - probability_and_statistics/statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
-    - part: probability_and_statistics/statistics/statistical_inference/statistical_inference.ipynb
+        - statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
+        - statistics/statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
+        - statistics/statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
+    - part: statistics/statistics/statistical_inference/statistical_inference.ipynb
       chapters:
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/wald_test.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/t_testing.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
-        - probability_and_statistics/statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
-        - probability_and_statistics/statistics/statistical_inference/bayesian_inference.ipynb
-    - part: probability_and_statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
+        - statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/wald_test.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/t_testing.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
+        - statistics/statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
+        - statistics/statistics/statistical_inference/bayesian_inference.ipynb
+    - part: statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
-        - probability_and_statistics/statistics/statistical_decisions/risk_functions.ipynb 
-        - probability_and_statistics/statistics/statistical_decisions/bayes_estimators.ipynb
+        - statistics/statistics/statistical_decisions/risk_functions.ipynb 
+        - statistics/statistics/statistical_decisions/bayes_estimators.ipynb
     - part: optimization/optimization.ipynb
       chapters:
         - optimization/gradient_descent.ipynb
