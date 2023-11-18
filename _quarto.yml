@@ -44,39 +44,39 @@ book:
     - part: statistics/statistics/eda/eda.ipynb 
       chapters:
       
-        - statistics/statistics/eda/measures_central_tendency.ipynb
-        - statistics/statistics/eda/mean_estimation_histogram.ipynb
-        - statistics/statistics/eda/measures_variability.ipynb
-        - statistics/statistics/eda/skewness_kurtosis.ipynb
-        - statistics/statistics/eda/covariance_and_correlation.ipynb
-        - statistics/statistics/eda/histogram_plot.ipynb
-        - statistics/statistics/eda/quantile_plot.ipynb
-        - statistics/statistics/eda/scatter_plot.ipynb
-        - statistics/statistics/eda/box_plot.ipynb
-        - statistics/statistics/eda/bee_swarm_plots.ipynb
-        - statistics/statistics/eda/data_preprocessing.ipynb
-    - part: statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
+        - statistics/eda/measures_central_tendency.ipynb
+        - statistics/eda/mean_estimation_histogram.ipynb
+        - statistics/eda/measures_variability.ipynb
+        - statistics/eda/skewness_kurtosis.ipynb
+        - statistics/eda/covariance_and_correlation.ipynb
+        - statistics/eda/histogram_plot.ipynb
+        - statistics/eda/quantile_plots.ipynb
+        - statistics/eda/scatter_plot.ipynb
+        - statistics/eda/box_plot.ipynb
+        - statistics/eda/bee_swarm_plots.ipynb
+        - statistics/eda/data_preprocessing.ipynb
+    - part: statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
-        - statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
-        - statistics/statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
-        - statistics/statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
-    - part: statistics/statistics/statistical_inference/statistical_inference.ipynb
+        - statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
+        - statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
+        - statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
+    - part: statistics/statistical_inference/statistical_inference.ipynb
       chapters:
-        - statistics/statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/wald_test.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/t_testing.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
-        - statistics/statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
-        - statistics/statistics/statistical_inference/bayesian_inference.ipynb
-    - part: statistics/statistics/statistical_decisions/statistical_decision_theory.ipynb 
+        - statistics/statistical_inference/hypothesis_testing/hypothesis_testing.ipynb
+        - statistics/statistical_inference/hypothesis_testing/type_1_type2_errors.ipynb
+        - statistics/statistical_inference/hypothesis_testing/effect_size.ipynb
+        - statistics/statistical_inference/hypothesis_testing/wald_test.ipynb
+        - statistics/statistical_inference/hypothesis_testing/t_testing.ipynb
+        - statistics/statistical_inference/hypothesis_testing/chi_square_hypothesis_test.ipynb
+        - statistics/statistical_inference/hypothesis_testing/testing_distributions.ipynb
+        - statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
+        - statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
+        - statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
+        - statistics/statistical_inference/bayesian_inference.ipynb
+    - part: statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
-        - statistics/statistics/statistical_decisions/risk_functions.ipynb 
-        - statistics/statistics/statistical_decisions/bayes_estimators.ipynb
+        - statistics/statistical_decisions/risk_functions.ipynb 
+        - statistics/statistical_decisions/bayes_estimators.ipynb
     - part: optimization/optimization.ipynb
       chapters:
         - optimization/gradient_descent.ipynb
