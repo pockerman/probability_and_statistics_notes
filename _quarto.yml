@@ -54,6 +54,7 @@ book:
         - probability_and_statistics/statistics/eda/scatter_plot.ipynb
         - probability_and_statistics/statistics/eda/box_plot.ipynb
         - probability_and_statistics/statistics/eda/bee_swarm_plots.ipynb
+        - probability_and_statistics/statistics/eda/data_preprocessing.ipynb
     - part: probability_and_statistics/statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
       chapters: 
         - probability_and_statistics/statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
