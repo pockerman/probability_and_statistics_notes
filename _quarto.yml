@@ -149,9 +149,11 @@ book:
         - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
     - part: appendix/appendix.ipynb
       chapters:
-        - appendix/matplotlib_intro.ipynb  
+        - appendix/matplotlib_intro.ipynb
+        - appendix/python_pandas_intro.ipynb
         - appendix/linear_algebra.ipynb
         - appendix/least_squares.ipynb
+        - appendix/distance_metrics.ipynb
 bibliography: references.bib
 
 format:
