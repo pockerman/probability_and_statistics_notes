@@ -103,7 +103,9 @@ book:
         - supervised_machine_learning/classification/naive_bayes.ipynb
         - supervised_machine_learning/classification/logistic_regression.ipynb
     - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb 
-        - unsupervised_machine_learning/k_means.ipynb 
+        - unsupervised_machine_learning/k_means.ipynb
+        - unsupervised_machine_learning/gaussian_mixture_model.ipynb
+        - unsupervised_machine_learning/review_questions.ipynb
     - part: computing_frameworks/spark/apache_spark.ipynb
       chapters:
         - computing_frameworks/spark/spark_application_concepts.ipynb
