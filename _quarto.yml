@@ -105,6 +105,7 @@ book:
     - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb 
         - unsupervised_machine_learning/k_means.ipynb
         - unsupervised_machine_learning/gaussian_mixture_model.ipynb
+        - unsupervised_machine_learning/dbscan.ipynb
         - unsupervised_machine_learning/review_questions.ipynb
     - part: computing_frameworks/spark/apache_spark.ipynb
       chapters:
