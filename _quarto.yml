@@ -32,7 +32,7 @@ book:
         - probability/distributions/t_cauchy_distributions.ipynb
         - probability/distributions/chi_square_distribution.ipynb
         
-    - part: probability_and_statistics/simulation_methods/simulation_methods.ipynb
+    - part: probability/simulation_methods/simulation_methods.ipynb
       chapters:
         - probability/simulation_methods/coin_flips.ipynb
         - probability/simulation_methods/the_bootstrap.ipynb
@@ -41,7 +41,7 @@ book:
         - probability/simulation_methods/importance_sampling.ipynb
         - probability/simulation_methods/metropolis_hastings_algorithm.ipynb
         
-    - part: statistics/statistics/eda/eda.ipynb 
+    - part: statistics/eda/eda.ipynb 
       chapters:
       
         - statistics/eda/measures_central_tendency.ipynb
@@ -95,7 +95,7 @@ book:
         - supervised_machine_learning/backward_algorithm.ipynb
         - supervised_machine_learning/viterbi_algorithm.ipynb
         - supervised_machine_learning/baum_welch_algorithm.ipynb  
-    - part: supervised_machine_learning/supervised_classification_machine_learning.ipynb
+    - part: supervised_machine_learning/classification/supervised_classification_machine_learning.ipynb
       chapters:
         - supervised_machine_learning/classification/classification_using_density_estimation.ipynb
         - supervised_machine_learning/classification/evaluating_classifiers.ipynb
@@ -104,10 +104,11 @@ book:
         - supervised_machine_learning/classification/logistic_regression.ipynb
     - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb 
       chapters:
-        - unsupervised_machine_learning/k_means.ipynb
-        - unsupervised_machine_learning/gaussian_mixture_model.ipynb
-        - unsupervised_machine_learning/dbscan.ipynb
-        - unsupervised_machine_learning/review_questions.ipynb
+        - unsupervised_machine_learning/clustering/k_means.ipynb
+        - unsupervised_machine_learning/clustering/gaussian_mixture_model.ipynb
+        - unsupervised_machine_learning/clustering/spectral_clustering.ipynb
+        - unsupervised_machine_learning/clustering/dbscan.ipynb
+        - unsupervised_machine_learning/clustering/review_questions.ipynb
     - part: computing_frameworks/spark/apache_spark.ipynb
       chapters:
         - computing_frameworks/spark/spark_application_concepts.ipynb
