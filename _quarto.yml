@@ -56,7 +56,8 @@ book:
         - statistics/eda/bee_swarm_plots.ipynb
         - statistics/eda/data_preprocessing.ipynb
     - part: statistics/statistical_inference/statistical_estimation/statistical_estimation.ipynb
-      chapters: 
+      chapters:
+        - statistics/statistical_inference/statistical_estimation/method_of_moments.ipynb 
         - statistics/statistical_inference/statistical_estimation/maximum_likelihood_estimation.ipynb 
         - statistics/statistical_inference/statistical_estimation/point_estimation.ipynb 
         - statistics/statistical_inference/statistical_estimation/confidence_intervals.ipynb 
