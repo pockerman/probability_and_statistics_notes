@@ -110,6 +110,9 @@ book:
         - unsupervised_machine_learning/clustering/spectral_clustering.ipynb
         - unsupervised_machine_learning/clustering/dbscan.ipynb
         - unsupervised_machine_learning/clustering/review_questions.ipynb
+    - part: unsupervised_machine_learning/dimensionality_reduction/dimensionality_reduction.ipynb
+      chapters:
+        - unsupervised_machine_learning/dimensionality_reduction/pca.ipynb
     - part: computing_frameworks/spark/apache_spark.ipynb
       chapters:
         - computing_frameworks/spark/spark_application_concepts.ipynb

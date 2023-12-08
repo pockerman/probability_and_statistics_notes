@@ -28,6 +28,8 @@ The notes have been developed by using various resources and references the main
 
 ## References & Resources
 
+
+
 ### Books for Python programming
 
 - <a href="https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html">Python 3 Patterns, Recipes and Idioms</a>
@@ -38,4 +40,5 @@ The notes have been developed by using various resources and references the main
 ### Books for Machine Learning and Statistics with Python
 
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+- Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor, _An Introduction to Statistical Learning_, 2nd Edition, Springer, 2021 (available at https://www.statlearning.com/?utm_source=substack&utm_medium=email).
 

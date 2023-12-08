@@ -8,14 +8,18 @@ rigorousness that a formal treatment of the subject would deliver.
 ## Creating a book
 
 You can create a book from the notes using <a href="https://quarto.org/">Quarto</a>. 
-You can preview the book by using the following
+You can preview the book by using the following on the top level directory of the project.
 
 ```
 quarto preview
 
 ```
 
-on the top level directory of the project.
+You can create a PDF document from the notebooks using
+
+```
+quarto render --to pdf
+```
 
 ## Requirements
 
@@ -29,3 +33,5 @@ pip install -r requirements.txt
 
 In addition, the notes use the <a href="https://github.com/pockerman/mlutils">mlutils</a> package.
 Follow the instructions therein on how to install.
+
+
