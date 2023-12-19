@@ -73,6 +73,7 @@ book:
         - statistics/statistical_inference/hypothesis_testing/permutation_testing.ipynb
         - statistics/statistical_inference/hypothesis_testing/likelihood_ratio_test.ipynb
         - statistics/statistical_inference/hypothesis_testing/multiple_testing.ipynb
+        - statistics/statistical_inference/hypothesis_testing/ab_testing.ipynb
         - statistics/statistical_inference/bayesian_inference.ipynb
     - part: statistics/statistical_decisions/statistical_decision_theory.ipynb 
       chapters:
