@@ -13,7 +13,6 @@ book:
         - probability/outcomes_events_sample_space.ipynb
         - probability/probability_function.ipynb
         - probability/fundamental_probability_laws.ipynb
-        - probability/bayes_rule.ipynb
         - probability/random_variables.ipynb
         - probability/cumulative_distribution_function.ipynb
         - probability/central_limit_theorem.ipynb
