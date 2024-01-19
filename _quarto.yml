@@ -81,11 +81,6 @@ book:
     - part: optimization/optimization.ipynb
       chapters:
         - optimization/gradient_descent.ipynb
-    - part: component_analysis/component_analysis.ipynb
-      chapters:
-        - component_analysis/dimensionality_reduction.ipynb
-        - component_analysis/principal_component_analysis.ipynb
-      
     - part: supervised_machine_learning/supervised_machine_learning.ipynb
       chapters:
         - supervised_machine_learning/linear_regression.ipynb
@@ -125,15 +120,13 @@ book:
         - computing_frameworks/spark/spark_udfs.ipynb
     - part: computing_frameworks/pytorch/pytorch.ipynb
       chapters:
-        - computing_frameworks/pytorch/pytorch_twod_tensors.ipynb
-        - computing_frameworks/pytorch/pytorch_gradients.ipynb
+        - computing_frameworks/pytorch/pytorch_tensors.ipynb
         - computing_frameworks/pytorch/pytorch_dataset.ipynb
         - computing_frameworks/pytorch/pytorch_layers.ipynb
-        - computing_frameworks/pytorch/pytorch_sequential.ipynb
-        - computing_frameworks/pytorch/pytorch_linear.ipynb
+        - computing_frameworks/pytorch/pytorch_gradients.ipynb
+        - computing_frameworks/pytorch/pytorch_optim.ipynb
         - computing_frameworks/pytorch/pytorch_linear_regression.ipynb
         - computing_frameworks/pytorch/pytorch_logistic_regression.ipynb
-        - computing_frameworks/pytorch/pytorch_optim.ipynb
         - computing_frameworks/pytorch/pytorch_stochastic_gradient_descent.ipynb
         - computing_frameworks/pytorch/pytorch_user_defined_autograd_function.ipynb
         - computing_frameworks/pytorch/pytorch_transforms.ipynb
@@ -142,20 +135,6 @@ book:
         - computing_frameworks/pytorch/pytorch_activation_functions.ipynb
         - computing_frameworks/pytorch/pytorch_custom_modules.ipynb
         - computing_frameworks/pytorch/pytorch_cnn.ipynb
-    - part: computing_frameworks/gpgpu/gpu_programming.ipynb
-      chapters:
-        - computing_frameworks/gpgpu/intro_gpu_programming.ipynb
-        - computing_frameworks/gpgpu/computing_with_cuda/cuda_gpu.ipynb
-        - computing_frameworks/gpgpu/computing_with_cuda/cuda_computing_with_numba.ipynb
-      
-    - part: computing_frameworks/numba_framework/numba_overview.ipynb
-      chapters:
-        - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
-        - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
-    - part: computing_frameworks/profiling_code/profiling_code_overview.ipynb
-      chapters:
-        - computing_frameworks/numba_framework/numba_automatic_parallelization.ipynb
-        - computing_frameworks/numba_framework/numba_gpu_computing.ipynb
     - part: appendix/appendix.ipynb
       chapters:
         - appendix/matplotlib_intro.ipynb
