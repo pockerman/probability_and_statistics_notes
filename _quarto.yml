@@ -141,6 +141,7 @@ book:
         - appendix/python_pandas_intro.ipynb
         - appendix/linear_algebra.ipynb
         - appendix/least_squares.ipynb
+        - appendix/weighted_least_squares.ipynb
         - appendix/distance_metrics.ipynb
 bibliography: references.bib
 
