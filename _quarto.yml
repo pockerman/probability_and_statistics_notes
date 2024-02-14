@@ -12,6 +12,7 @@ book:
         - probability/basic_set_theory.ipynb
         - probability/outcomes_events_sample_space.ipynb
         - probability/probability_function.ipynb
+        - probability/elements_of_combinatorial_analysis.ipynb
         - probability/fundamental_probability_laws.ipynb
         - probability/random_variables.ipynb
         - probability/cumulative_distribution_function.ipynb
