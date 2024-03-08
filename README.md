@@ -1,4 +1,4 @@
-# Probability and Statistics Notes
+# Notes on Statistical Learning
 
 This is a series of notes on probability and statistics. The notes are organised into 
 jupyter notebooks. As the name suggests these are just notes, so many topics will lack the

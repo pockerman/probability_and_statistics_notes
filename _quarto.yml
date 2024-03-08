@@ -15,8 +15,7 @@ book:
         - probability/elements_of_combinatorial_analysis.ipynb
         - probability/fundamental_probability_laws.ipynb
         - probability/random_variables.ipynb
-        - probability/cumulative_distribution_function.ipynb
-        - probability/central_limit_theorem.ipynb
+        - probability/limit_theorems_central_limit_theorem.ipynb
         - probability/density_estimation.ipynb
         
     - part: probability/distributions/probability_distributions.ipynb
@@ -144,6 +143,7 @@ book:
         - appendix/least_squares.ipynb
         - appendix/weighted_least_squares.ipynb
         - appendix/distance_metrics.ipynb
+        - appendix/inequalities.ipynb
 bibliography: references.bib
 
 format:
