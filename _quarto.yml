@@ -98,6 +98,7 @@ book:
         - supervised_machine_learning/classification/k_nearest_neighbors.ipynb
         - supervised_machine_learning/classification/naive_bayes.ipynb
         - supervised_machine_learning/classification/logistic_regression.ipynb
+        - supervised_machine_learning/classification/support_vector_machine.ipynb
     - part: unsupervised_machine_learning/unsupervised_machine_learning.ipynb 
       chapters:
         - unsupervised_machine_learning/clustering/k_means.ipynb
