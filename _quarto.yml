@@ -109,6 +109,7 @@ book:
     - part: unsupervised_machine_learning/dimensionality_reduction/dimensionality_reduction.ipynb
       chapters:
         - unsupervised_machine_learning/dimensionality_reduction/pca.ipynb
+    - part: natural_language_processing/natural_language_processing_part.ipynb
     - part: computing_frameworks/spark/apache_spark.ipynb
       chapters:
         - computing_frameworks/spark/spark_application_concepts.ipynb
