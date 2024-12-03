@@ -95,6 +95,7 @@ book:
       chapters:
         - supervised_machine_learning/classification/classification_using_density_estimation.ipynb
         - supervised_machine_learning/classification/evaluating_classifiers.ipynb
+        - supervised_machine_learning/classification/cross_validation.ipynb
         - supervised_machine_learning/classification/k_nearest_neighbors.ipynb
         - supervised_machine_learning/classification/naive_bayes.ipynb
         - supervised_machine_learning/classification/logistic_regression.ipynb
