@@ -7,8 +7,9 @@ book:
   date: "15/04/2023"
   chapters:
     - index.qmd
-    - part: probability/probability_theory.ipynb
+    - part: probability/probability_theory_part.ipynb
       chapters:
+        - probability/probability_theory_intro.ipynb
         - probability/basic_set_theory.ipynb
         - probability/outcomes_events_sample_space.ipynb
         - probability/probability_function.ipynb
